@@ -1,0 +1,44 @@
+@charset "utf-8";
+.text {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;
+	background-color: #F36;
+	margin: 2px;
+	padding: 20px;
+	background-color: #F93;
+	text-align: left;
+}
+.bg_img {
+	background-color: #09F
+}
+
+.text_middle {
+	alignment-adjust:central;
+	padding-top: 20px;
+	padding-bottom: 0px;
+	padding-right: 20px;
+	padding-left: 80px;
+	margin: 2px;
+}
+
+.about_us_button {
+	background-color: #F93
+}
+
+.about_us_text {
+	padding-top: 20px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	color: #FFF;
+	font-weight: bold;
+	text-align: center;
+}
+
+.top_share_bg {
+	padding-left:0px;
+	background-color:#F93;
+	padding-top:10px;
+	padding-bottom:0px;
+}
